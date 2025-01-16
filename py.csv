@@ -1,0 +1,11 @@
+text,sentiments
+"""I love this product, it's amazing!"",",positive
+"""The movie was terrible and boring."",",negative
+"""Absolutely fantastic experience!"",",positive
+"""Worst purchase I’ve ever made"",",negative
+"""Highly recommend, great value for money!"",",positive
+"""I will never buy from this company again."",",negative
+"""The book was a wonderful read, so interesting!"",",positive
+"""I’m disappointed with the customer service."",",negative
+"""Such a great day, I’m so happy!"",",positive
+"""The food was cold and tasteless."",",negative
